@@ -18,12 +18,5 @@ This website is built by seniors and peers to help freshers seamlessly transitio
 
 ## Contributions
 
-Want to make this resource even better? Contributions are highly encouraged! Whether it's fixing a typo, updating course details, or adding a completely new feature, your help matters.
-
-### How to contribute:
-1.  **Fork** this repository to your own GitHub account.
-2.  **Clone** your fork locally and create a new branch for your feature or fix.
-3.  Commit your changes with clear, descriptive commit messages.
-4.  Push the changes to your fork.
-5.  Open a **Pull Request (PR)** against our `main` branch.
+Yes you can XD
 

@@ -11,9 +11,6 @@ This website is built by seniors and peers to help freshers seamlessly transitio
 ### What you'll find here:
 *   **The Survival Guide:** Tips on managing the physics/chemistry cycles, ISA/ESA exams, and maintaining a solid GPA.
 *   **Campus Navigator:** Finding your way around the blocks, labs, and food spots.
-*   **Automation & Tools:** Scripts and tools to make campus life easier (like Wi-Fi login automation).
-*   **Resources:** Quick links to previous year question papers, notes, and syllabus copies.
-
 ---
 
 ## Contributions

@@ -1,0 +1,16 @@
+palya
+palya-macos-amd64/
+*.exe
+*.bin
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+.netrwhist
+
+
+#chk once pls 
+.palya_cache.json
+
+# NOT SURE public/

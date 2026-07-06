@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
 description: "Welcome to PES University! A friendly guide to campus life, academics, examinations, and more."
-slug: introduction
 ---
 
 # Introduction
@@ -543,4 +542,8 @@ Where:
 - `jy` → Year of Admission (e.g. 26 = 2026 Batch)
 - `sb` → Subject Code (e.g. CS, EC, ME, CY, PH, MA)
 - `y` → Year of Study
+- `c` → Number of Credits
+- `n` → Serial Number of the Subject within that Credit Category
+- `A/B` → Semester code (A=Odd Semester , B=Even Semester)
+
 
